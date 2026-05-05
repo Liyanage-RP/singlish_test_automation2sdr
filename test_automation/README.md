@@ -2,6 +2,8 @@
 
 This project contains automated and manual testing results for the Singlish-to-Sinhala transliteration tool provided by [Pixelssuite](https://www.pixelssuite.com/chat-translator).
 
+**GitHub Repository:** [Liyanage-RP/singlish_test_automation2sdr](https://github.com/Liyanage-RP/singlish_test_automation2sdr)
+
 ## Files in this Repository
 
 - **`test_automation.py`**: A Playwright-based Python script used to automate the input and extraction of transliteration results.
